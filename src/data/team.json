@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sarah-anderson",
+    "name": "Sarah Anderson",
+    "position": "Founder & Creative Director",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600",
+    "bio": "With over 15 years of experience in luxury interior design, Sarah leads our creative vision with an unwavering commitment to excellence and innovation.",
+    "email": "sarah@interiors.com"
+  },
+  {
+    "id": "michael-chen",
+    "name": "Michael Chen",
+    "position": "Senior Interior Designer",
+    "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=600",
+    "bio": "Michael specializes in contemporary residential design, bringing a unique blend of Eastern and Western design philosophies to every project.",
+    "email": "michael@interiors.com"
+  },
+  {
+    "id": "emma-laurent",
+    "name": "Emma Laurent",
+    "position": "Lead Architect",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=600",
+    "bio": "Emma's architectural expertise ensures seamless integration between structure and interior design, creating harmonious living spaces.",
+    "email": "emma@interiors.com"
+  },
+  {
+    "id": "david-martinez",
+    "name": "David Martinez",
+    "position": "Commercial Design Director",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600",
+    "bio": "David leads our commercial projects with a strategic approach that balances brand identity, functionality, and aesthetic appeal.",
+    "email": "david@interiors.com"
+  },
+  {
+    "id": "sophia-williams",
+    "name": "Sophia Williams",
+    "position": "Project Manager",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600",
+    "bio": "Sophia ensures every project is delivered on time and to the highest standards, coordinating all aspects from concept to completion.",
+    "email": "sophia@interiors.com"
+  },
+  {
+    "id": "james-thompson",
+    "name": "James Thompson",
+    "position": "Interior Designer",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600",
+    "bio": "James brings fresh perspectives and creative solutions to residential and hospitality projects with his keen eye for detail.",
+    "email": "james@interiors.com"
+  },
+  {
+    "id": "olivia-kim",
+    "name": "Olivia Kim",
+    "position": "Lighting Designer",
+    "image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=600",
+    "bio": "Olivia transforms spaces through innovative lighting design, creating ambiance and highlighting architectural features.",
+    "email": "olivia@interiors.com"
+  },
+  {
+    "id": "lucas-mueller",
+    "name": "Lucas Mueller",
+    "position": "3D Visualization Artist",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600",
+    "bio": "Lucas brings designs to life through stunning photorealistic renderings, helping clients visualize their future spaces.",
+    "email": "lucas@interiors.com"
+  }
+]

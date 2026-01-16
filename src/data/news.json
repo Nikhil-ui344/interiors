@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sustainability-interior-design-2026",
+    "title": "Sustainable Practices in Modern Interior Design",
+    "date": "2026-01-10",
+    "category": "Trends",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1200",
+    "excerpt": "Exploring how eco-friendly materials and sustainable practices are shaping the future of interior design.",
+    "content": "As environmental consciousness continues to grow, the interior design industry is embracing sustainable practices more than ever before..."
+  },
+  {
+    "id": "minimalism-luxury-convergence",
+    "title": "Where Minimalism Meets Luxury",
+    "date": "2025-12-15",
+    "category": "Design Philosophy",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+    "excerpt": "How less can truly be more in high-end interior design projects.",
+    "content": "The intersection of minimalist principles and luxury aesthetics creates spaces that are both refined and deeply comfortable..."
+  },
+  {
+    "id": "biophilic-design-workplace",
+    "title": "Biophilic Design: Bringing Nature into the Workplace",
+    "date": "2025-11-28",
+    "category": "Commercial Design",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+    "excerpt": "The science and art behind integrating natural elements in office environments.",
+    "content": "Research shows that incorporating natural elements into workplace design significantly improves employee wellbeing and productivity..."
+  },
+  {
+    "id": "color-trends-2026",
+    "title": "Color Trends Defining 2026",
+    "date": "2025-11-05",
+    "category": "Trends",
+    "image": "https://images.unsplash.com/photo-1615873968403-89e068629265?w=1200",
+    "excerpt": "From warm earth tones to bold jewel colors, discover what's trending this year.",
+    "content": "This year's color palette reflects a desire for comfort, connection, and authenticity in our living spaces..."
+  },
+  {
+    "id": "smart-home-integration",
+    "title": "Seamless Technology Integration in Luxury Homes",
+    "date": "2025-10-20",
+    "category": "Technology",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=1200",
+    "excerpt": "How to incorporate smart home technology without compromising aesthetic integrity.",
+    "content": "Modern luxury homes require sophisticated technology, but the best designs make it invisible..."
+  },
+  {
+    "id": "award-winning-villa-project",
+    "title": "Our Dubai Villa Project Wins International Design Award",
+    "date": "2025-09-15",
+    "category": "Awards",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+    "excerpt": "Celebrating our recognition at the International Interior Design Awards 2025.",
+    "content": "We're thrilled to announce that our Modern Villa project in Dubai has been honored with the Best Residential Design Award..."
+  }
+]

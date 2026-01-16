@@ -1,0 +1,110 @@
+[
+  {
+    "id": "residential-design",
+    "title": "Residential Design",
+    "subtitle": "Crafting timeless living spaces",
+    "icon": "home",
+    "description": "We specialize in creating bespoke residential interiors that reflect your unique lifestyle and personality. From contemporary apartments to luxurious villas, our designs blend functionality with aesthetic excellence.",
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200",
+    "process": [
+      "Initial consultation and vision alignment",
+      "Space planning and concept development",
+      "Material selection and mood boards",
+      "3D visualization and client approval",
+      "Project execution and site supervision",
+      "Final styling and handover"
+    ],
+    "timeline": "8-16 weeks",
+    "deliverables": ["Concept boards", "3D renderings", "Material specifications", "Technical drawings", "Project management"]
+  },
+  {
+    "id": "commercial-spaces",
+    "title": "Commercial Spaces",
+    "subtitle": "Designing for business excellence",
+    "icon": "building",
+    "description": "Transform your commercial space into an environment that enhances productivity and leaves a lasting impression. We design offices, retail spaces, and hospitality venues that align with your brand identity.",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+    "process": [
+      "Brand analysis and space assessment",
+      "Functional layout planning",
+      "Design development and material curation",
+      "Technical documentation",
+      "Implementation oversight",
+      "Quality assurance and completion"
+    ],
+    "timeline": "12-24 weeks",
+    "deliverables": ["Brand alignment study", "Space planning", "FF&E specifications", "Construction documents", "Site coordination"]
+  },
+  {
+    "id": "hospitality-design",
+    "title": "Hospitality Design",
+    "subtitle": "Creating memorable guest experiences",
+    "icon": "star",
+    "description": "From boutique hotels to luxury resorts, we create hospitality interiors that captivate guests and enhance their experience. Our designs balance aesthetics, comfort, and operational efficiency.",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200",
+    "process": [
+      "Guest journey mapping",
+      "Concept and theme development",
+      "Detailed design and specifications",
+      "Prototype room creation",
+      "Full-scale implementation",
+      "Pre-opening support"
+    ],
+    "timeline": "16-32 weeks",
+    "deliverables": ["Concept design", "Guest room prototypes", "Public area designs", "Custom furniture design", "OS&E specifications"]
+  },
+  {
+    "id": "turnkey-solutions",
+    "title": "Turnkey Solutions",
+    "subtitle": "Complete end-to-end design and execution",
+    "icon": "key",
+    "description": "Experience hassle-free interior transformation with our comprehensive turnkey solutions. We manage every aspect from concept to completion, ensuring a seamless journey and exceptional results.",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+    "process": [
+      "Full scope definition",
+      "Integrated design and planning",
+      "Contractor and vendor management",
+      "Quality control and supervision",
+      "Installation and finishing",
+      "Final walkthrough and handover"
+    ],
+    "timeline": "12-28 weeks",
+    "deliverables": ["Complete design package", "Project management", "Procurement services", "Installation supervision", "Warranty support"]
+  },
+  {
+    "id": "consultation",
+    "title": "Design Consultation",
+    "subtitle": "Expert guidance for your project",
+    "icon": "lightbulb",
+    "description": "Get professional design advice and direction for your interior project. Our consultation services provide expert insights, recommendations, and solutions tailored to your specific needs.",
+    "image": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1200",
+    "process": [
+      "Project assessment",
+      "Design direction and concept ideas",
+      "Material and color recommendations",
+      "Layout optimization",
+      "Budget planning",
+      "Vendor and contractor referrals"
+    ],
+    "timeline": "2-4 weeks",
+    "deliverables": ["Consultation report", "Design recommendations", "Material palettes", "Layout suggestions", "Budget estimates"]
+  },
+  {
+    "id": "renovation",
+    "title": "Renovation & Remodeling",
+    "subtitle": "Transforming existing spaces",
+    "icon": "refresh",
+    "description": "Breathe new life into your existing space with our renovation and remodeling services. We respect the character of your property while updating it to meet contemporary standards and your evolving needs.",
+    "image": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=1200",
+    "process": [
+      "Existing space assessment",
+      "Renovation scope planning",
+      "Design development",
+      "Structural coordination",
+      "Phased execution",
+      "Final touches and styling"
+    ],
+    "timeline": "10-20 weeks",
+    "deliverables": ["As-built documentation", "Renovation plans", "Material specifications", "Construction coordination", "Project completion"]
+  }
+]
