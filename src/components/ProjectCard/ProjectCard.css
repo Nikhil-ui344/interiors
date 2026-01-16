@@ -92,3 +92,31 @@
 .project-card:hover .project-card-title {
   color: var(--color-accent);
 }
+
+@media (max-width: 768px) {
+  .project-card-image {
+    aspect-ratio: 4/3;
+  }
+
+  .project-card-overlay {
+    padding: 20px;
+  }
+
+  .project-card-info {
+    padding: 20px 0;
+  }
+
+  .project-card-meta {
+    font-size: 11px;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .project-card-title {
+    font-size: 18px;
+  }
+
+  .view-project {
+    font-size: 12px;
+  }
+}

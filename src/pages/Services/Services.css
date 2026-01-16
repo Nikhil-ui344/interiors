@@ -27,15 +27,29 @@
 
 @media (max-width: 768px) {
   .services-intro {
-    padding: 60px 0;
+    padding: 50px 0;
+  }
+
+  .intro-description {
+    font-size: 15px;
   }
 
   .services-list {
-    padding: 40px 0 80px;
+    padding: 30px 0 60px;
   }
 
   .services-grid-page {
     grid-template-columns: 1fr;
     gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .services-intro {
+    padding: 40px 0;
+  }
+
+  .services-list {
+    padding: 20px 0 50px;
   }
 }

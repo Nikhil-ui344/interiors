@@ -43,6 +43,15 @@
 @media (max-width: 768px) {
   .page-header {
     margin-top: 70px;
-    padding: 60px 0 30px;
+    padding: 50px 0 25px;
+  }
+
+  .page-header-title {
+    font-size: 28px;
+  }
+
+  .breadcrumbs {
+    font-size: 11px;
+    flex-wrap: wrap;
   }
 }

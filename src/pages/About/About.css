@@ -87,11 +87,28 @@
   .about-intro,
   .values-section,
   .team-section {
-    padding: 60px 0;
+    padding: 50px 0;
+  }
+
+  .about-content {
+    gap: 30px;
   }
 
   .about-image {
-    height: 400px;
+    height: 350px;
+  }
+
+  .about-text {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+
+  .section-label {
+    font-size: 11px;
+  }
+
+  .section-title {
+    font-size: 28px;
   }
 
   .values-grid {
@@ -99,8 +116,30 @@
     gap: 20px;
   }
 
+  .value-card {
+    padding: 30px 20px;
+  }
+
+  .value-card h3 {
+    font-size: 18px;
+  }
+
+  .value-card p {
+    font-size: 13px;
+  }
+
   .team-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-image {
+    height: 280px;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr;
   }
 }

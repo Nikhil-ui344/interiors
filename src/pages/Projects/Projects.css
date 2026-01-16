@@ -49,20 +49,33 @@
 
 @media (max-width: 768px) {
   .projects-filter-section {
-    padding: 40px 0;
+    padding: 30px 0;
+  }
+
+  .filter-buttons {
+    gap: 10px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .filter-button {
+    padding: 10px 18px;
+    font-size: 11px;
   }
 
   .projects-list-section {
-    padding: 60px 0 80px;
+    padding: 40px 0 60px;
   }
 
   .projects-grid-full {
     grid-template-columns: 1fr;
-    gap: 20px;
+    gap: 30px;
   }
+}
 
+@media (max-width: 480px) {
   .filter-button {
-    padding: 10px 20px;
-    font-size: 12px;
+    flex: 1 1 calc(50% - 5px);
+    min-width: 120px;
   }
 }

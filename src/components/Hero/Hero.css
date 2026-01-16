@@ -69,6 +69,27 @@
 
   .hero-full {
     height: calc(100vh - 70px);
-    min-height: 500px;
+    min-height: 450px;
+  }
+
+  .hero-medium {
+    min-height: 300px;
+  }
+
+  .hero-small {
+    min-height: 250px;
+  }
+
+  .hero-content {
+    padding: 0 15px;
+  }
+
+  .hero-title {
+    font-size: 32px;
+    margin-bottom: 15px;
+  }
+
+  .hero-subtitle {
+    font-size: 14px;
   }
 }

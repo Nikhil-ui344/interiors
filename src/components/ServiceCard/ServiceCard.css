@@ -69,7 +69,26 @@
 
 @media (max-width: 768px) {
   .service-card {
-    padding: 30px;
-    min-height: 240px;
+    padding: 25px 20px;
+    min-height: 200px;
+  }
+
+  .service-card-number {
+    font-size: 12px;
+    margin-bottom: 15px;
+  }
+
+  .service-card-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .service-card-subtitle {
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .learn-more {
+    font-size: 12px;
   }
 }

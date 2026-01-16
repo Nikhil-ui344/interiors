@@ -94,26 +94,64 @@
 
 @media (max-width: 768px) {
   .service-hero {
-    height: 300px;
+    height: 350px;
   }
 
   .service-content {
-    padding: 60px 0 40px;
+    padding: 50px 0 30px;
+  }
+
+  .service-subtitle {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  .service-description {
+    font-size: 16px;
+  }
+
+  .process-list li,
+  .deliverables-list li {
+    font-size: 13px;
+    padding-left: 20px;
   }
 
   .related-projects {
     padding: 40px 0;
   }
 
+  .related-projects .section-title {
+    margin-bottom: 40px;
+    font-size: 28px;
+  }
+
   .service-cta {
-    padding: 60px 0;
+    padding: 50px 0;
   }
 
   .cta-box {
-    padding: 60px 20px;
+    padding: 50px 20px;
   }
 
   .cta-box h2 {
-    font-size: 28px;
+    font-size: 24px;
+  }
+
+  .cta-box p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .service-hero {
+    height: 250px;
+  }
+
+  .cta-box {
+    padding: 40px 15px;
+  }
+
+  .cta-box h2 {
+    font-size: 22px;
   }
 }

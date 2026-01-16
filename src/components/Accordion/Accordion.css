@@ -52,10 +52,19 @@
 
 @media (max-width: 768px) {
   .accordion-header {
-    padding: 20px;
+    padding: 18px 15px;
+  }
+
+  .accordion-title {
+    font-size: 14px;
+  }
+
+  .accordion-icon {
+    font-size: 18px;
   }
 
   .accordion-content-inner {
-    padding: 0 20px 20px;
+    padding: 0 15px 18px;
+    font-size: 13px;
   }
 }

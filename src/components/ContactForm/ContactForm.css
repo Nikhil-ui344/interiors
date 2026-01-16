@@ -64,9 +64,33 @@
 }
 
 @media (max-width: 768px) {
+  .contact-form {
+    max-width: 100%;
+  }
+
   .form-row {
     grid-template-columns: 1fr;
     gap: 20px;
     margin-bottom: 20px;
+  }
+
+  .form-group label {
+    font-size: 12px;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    padding: 12px;
+    font-size: 14px;
+  }
+
+  .form-group textarea {
+    min-height: 120px;
+  }
+
+  .submit-button {
+    width: 100%;
+    padding: 14px 30px;
+    font-size: 12px;
   }
 }

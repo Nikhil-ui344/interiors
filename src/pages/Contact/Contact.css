@@ -107,18 +107,72 @@
 
 @media (max-width: 768px) {
   .contact-intro {
-    padding: 60px 0;
+    padding: 50px 0;
+  }
+
+  .intro-description {
+    font-size: 15px;
   }
 
   .contact-content-section {
-    padding: 60px 0;
+    padding: 50px 0;
+  }
+
+  .contact-layout {
+    gap: 40px;
+  }
+
+  .contact-info-title,
+  .form-title {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+
+  .contact-info-item {
+    margin-bottom: 30px;
+  }
+
+  .contact-icon {
+    font-size: 20px;
+  }
+
+  .contact-info-item h3 {
+    font-size: 15px;
+  }
+
+  .contact-info-item p {
+    font-size: 14px;
+  }
+
+  .business-hours {
+    margin-top: 35px;
+    padding-top: 35px;
+  }
+
+  .business-hours h3 {
+    font-size: 15px;
+  }
+
+  .hours-item {
+    font-size: 13px;
   }
 
   .contact-form-wrapper {
-    padding: 30px 20px;
+    padding: 25px 15px;
   }
 
   .map-placeholder {
-    height: 350px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-info-title,
+  .form-title {
+    font-size: 22px;
+  }
+
+  .map-placeholder {
+    height: 250px;
   }
 }

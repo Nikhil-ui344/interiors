@@ -58,3 +58,18 @@
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
+
+@media (max-width: 768px) {
+  .team-card-overlay {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .team-member-name {
+    font-size: 18px;
+  }
+
+  .team-member-position {
+    font-size: 12px;
+  }
+}
